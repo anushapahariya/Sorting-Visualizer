@@ -1,9 +1,12 @@
 
 # Sorting-Visualizer
 
-
-
 A JavaScript application for visualizing various sorting algorithms, it showcases the inner workings of these algorithms.
+
+![Screenshot (999)](https://user-images.githubusercontent.com/86736177/173327714-e0a79e9a-bb43-4751-a9c9-4ee0873b3fdc.png)
+
+
+
 
 
 # Features:
