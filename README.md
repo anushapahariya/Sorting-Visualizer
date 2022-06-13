@@ -5,7 +5,18 @@
 
 A JavaScript application for visualizing various sorting algorithms, it showcases the inner workings of these algorithms.
 
-Implemented algorithms:
+
+# Features:
+* Sorting Visualising
+* Algorithm selection
+* Adjustable speed
+* Adjustable size
+* Randomaize array 
+
+
+
+
+# Implemented algorithms:
 
 1. Bubble sort
 2. Insertion sort
@@ -13,7 +24,10 @@ Implemented algorithms:
 5. Merge sort
 6. Quick sort
 
+
+
 # Bubble Sort
+
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst case time complexity is quite high.
 
 # Insertion Sort
